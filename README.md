@@ -38,9 +38,9 @@ This application was heavily profiled and optimized using Flutter DevTools to en
     <td align="center"><b>Stats</b></td>
   </tr>
   <tr>
-    <td><img src="<img width="702" height="1600" alt="signin" src="https://github.com/user-attachments/assets/dffbaa2f-0c52-4c66-934c-fc2e5de07a07" />" width="220"></td>
-    <td><img src="<img width="702" height="1600" alt="home" src="https://github.com/user-attachments/assets/7debc26f-1e94-4e06-b51d-e591f67ffd39" />" width="220"></td>
-    <td><img src="<img width="702" height="1600" alt="stats" src="https://github.com/user-attachments/assets/f0fe78f1-22c7-494f-bf9f-b01a3041a626" />" width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/dffbaa2f-0c52-4c66-934c-fc2e5de07a07" alt="signin" width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/7debc26f-1e94-4e06-b51d-e591f67ffd39" alt="home" width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/f0fe78f1-22c7-494f-bf9f-b01a3041a626" alt="stats" width="220"></td>
   </tr>
   <tr>
     <td align="center"><b>Upgrades</b></td>
@@ -48,9 +48,9 @@ This application was heavily profiled and optimized using Flutter DevTools to en
     <td align="center"><b>Battle</b></td>
   </tr>
   <tr>
-    <td><img src="<img width="702" height="1600" alt="upgrades" src="https://github.com/user-attachments/assets/e7b40b97-89e4-4a80-9ae3-0727ee3de716" />" width="220"></td>
-    <td><img src="<img width="702" height="1600" alt="friends page" src="https://github.com/user-attachments/assets/c603010f-9bf2-41ca-8e3d-adf8f21a39f1" />" width="220"></td>
-    <td><img src="<img width="702" height="1600" alt="battle page" src="https://github.com/user-attachments/assets/ccdde11e-0df2-4bdf-9728-14640a5c8692" /> width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/e7b40b97-89e4-4a80-9ae3-0727ee3de716" alt="upgrades" width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/c603010f-9bf2-41ca-8e3d-adf8f21a39f1" alt="friends" width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/ccdde11e-0df2-4bdf-9728-14640a5c8692" alt="battle" width="220"></td>
   </tr>
 </table>
 
