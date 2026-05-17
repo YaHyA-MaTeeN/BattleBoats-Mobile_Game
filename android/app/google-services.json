@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987159892488",
+    "project_id": "battleboatsv1",
+    "storage_bucket": "battleboatsv1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987159892488:android:eacc277d9bb581ee45f7bd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOxcZkppNNfX4nAx4nhYEiGIfYkJxnds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
