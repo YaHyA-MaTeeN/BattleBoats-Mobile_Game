@@ -1,4 +1,3 @@
-<img width="702" height="1600" alt="home" src="https://github.com/user-attachments/assets/149a7f6a-6a1a-4dc1-be04-633440693d3a" />
 # 🚢 BattleBoats 
 
 A high-performance, real-time multiplayer naval combat game built with Flutter and Firebase. 
