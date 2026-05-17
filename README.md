@@ -1,3 +1,4 @@
+<img width="702" height="1600" alt="home" src="https://github.com/user-attachments/assets/149a7f6a-6a1a-4dc1-be04-633440693d3a" />
 # 🚢 BattleBoats 
 
 A high-performance, real-time multiplayer naval combat game built with Flutter and Firebase. 
@@ -29,12 +30,18 @@ This application was heavily profiled and optimized using Flutter DevTools to en
 * **Tooling:** Flutter DevTools (CPU, Memory, & UI Performance Profiling)
 
 ## 📱 Screenshots
-
-> *(Note: Replace these placeholder links with actual images of your game by dragging and dropping them into the GitHub editor!)*
-> 
-> | Main Menu | Battle Grid | Upgrades Screen |
-> | :---: | :---: | :---: |
-> | [Screenshot 1] | [Screenshot 2] | [Screenshot 3] |
+> | Sign-in Page |
+<img width="702" height="1600" alt="signin" src="https://github.com/user-attachments/assets/dffbaa2f-0c52-4c66-934c-fc2e5de07a07" />
+> | Home Page |
+> <img width="702" height="1600" alt="home" src="https://github.com/user-attachments/assets/7debc26f-1e94-4e06-b51d-e591f67ffd39" />
+> | Stats Page |
+> <img width="702" height="1600" alt="stats" src="https://github.com/user-attachments/assets/f0fe78f1-22c7-494f-bf9f-b01a3041a626" />
+> | Friends Page |
+> <img width="702" height="1600" alt="friends page" src="https://github.com/user-attachments/assets/c603010f-9bf2-41ca-8e3d-adf8f21a39f1" />
+> | Upgrade Page |
+> <img width="702" height="1600" alt="upgrades" src="https://github.com/user-attachments/assets/e7b40b97-89e4-4a80-9ae3-0727ee3de716" />
+> | Battle Page |
+> <img width="702" height="1600" alt="battle page" src="https://github.com/user-attachments/assets/ccdde11e-0df2-4bdf-9728-14640a5c8692" />
 
 ## ⚙️ Local Setup & Installation
 
@@ -62,4 +69,4 @@ To run this project locally, ensure you have the Flutter SDK installed.
 
 ## 👨‍💻 Author
 
-**Yahya Mateen** Computer Science Student @ UET Lahore | Mobile App Developer
+**Yahya Mateen** Computer Science Student @ UET Lahore 
